@@ -3,21 +3,7 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
     background-color: purple;
-}
-
-h2 {
-    background-color: rosybrown;
-    color: royalblue;
-}
-
-p {
-    background-color: darkgoldenrod;
-    color: violet;
-=======
-    color: white;
-
 }
 
 h2 {
@@ -29,5 +15,4 @@ p {
     font-weight: 100;
     font-size: larger;
     color:  rgb(255, 94, 0);
->>>>>>> newbranch
 }
