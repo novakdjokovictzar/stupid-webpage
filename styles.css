@@ -1,7 +1,19 @@
 body {
-    background-color: olive;
+    background-color: black;
 }
 
 h1 {
-    background-color: purple;
+    color: white;
+
+}
+
+h2 {
+    font-style: italic;
+    color: rgb(255, 94, 0);
+
+}
+p {
+    font-weight: 100;
+    font-size: larger;
+    color:  rgb(255, 94, 0);
 }
