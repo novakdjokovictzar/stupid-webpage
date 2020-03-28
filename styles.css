@@ -5,3 +5,13 @@ body {
 h1 {
     background-color: purple;
 }
+
+h2 {
+    background-color: rosybrown;
+    color: royalblue;
+}
+
+p {
+    background-color: darkgoldenrod;
+    color: violet;
+}
